@@ -1,0 +1,8 @@
+2015-12-25 16:26:11,454 [main] WARN   LogBackDemo - Dummy warning message
+2015-12-25 16:26:11,459 [main] ERROR  LogBackDemo - Dummy error message
+2015-12-25 16:43:51,937 [main] WARN   LogBackDemo - Dummy warning message
+2015-12-25 16:43:51,941 [main] ERROR  LogBackDemo - Dummy error message
+2015-12-25 16:55:48,508 [main] WARN   LogBackDemo - Dummy warning message
+2015-12-25 16:55:48,514 [main] ERROR  LogBackDemo - Dummy error message
+2015-12-25 16:56:06,778 [main] WARN   LogBackDemo - Dummy warning message
+2015-12-25 16:56:06,782 [main] ERROR  LogBackDemo - Dummy error message
